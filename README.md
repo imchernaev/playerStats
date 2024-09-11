@@ -42,6 +42,3 @@ failing
 iterating the list of all input records from record repository.
 
 
-I've given serious though about mapping the tables by foreign keys, custom error handling, using lombok not vanilla, but personally was not satisfied by the data download from classroom, to go to print->then pdf safe->then from pdf to csv. Very bad start of the assignment, kinda boring working with those csv files, overall the mid-exam tasks were far superior to this one.
-Not happy about the lack of deep coverage of spring. Overall i've learned a lot in a short period of time but lacking the brutal exercise we got when we were learning loops, could have been beneficial a lot.
-
